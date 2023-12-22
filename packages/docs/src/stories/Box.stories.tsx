@@ -1,15 +1,11 @@
 import { StoryObj, Meta } from '@storybook/react'
-import { Box, BoxProps } from '@next-ui/react'
+import { Box, BoxProps, Text } from '@next-ui/react'
 
 export default {
   title: 'Surfaces/Box',
   component: Box,
   args: {
-    children: (
-      <>
-        <span>Testando elemento</span>
-      </>
-    ),
+    children: <Text>Testando elemento</Text>,
   },
 } as Meta<BoxProps>
 
