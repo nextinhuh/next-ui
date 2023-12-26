@@ -15,4 +15,6 @@ export const colors = {
   next500: '#00875F',
   next700: '#015F43',
   next900: '#00291D',
+
+  test: '#FFF',
 }
