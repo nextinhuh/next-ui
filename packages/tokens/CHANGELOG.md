@@ -1,5 +1,11 @@
 # @next-ui-desing/tokens
 
+## 2.2.0
+
+### Minor Changes
+
+- Remove test color token
+
 ## 2.1.0
 
 ### Minor Changes
