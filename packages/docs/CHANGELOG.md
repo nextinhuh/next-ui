@@ -1,6 +1,6 @@
-# @next-ui-desing/react
+# @next-ui-desing/docs
 
-## 3.0.0
+## 2.0.0
 
 ### Major Changes
 
@@ -9,11 +9,4 @@
 
 ### Minor Changes
 
-- Changes extends paths
 - f2eb0ed: Change NPM config
-
-## 2.0.1
-
-### Patch Changes
-
-- Change oganization name
