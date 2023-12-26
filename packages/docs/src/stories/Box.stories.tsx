@@ -1,5 +1,5 @@
 import { StoryObj, Meta } from '@storybook/react'
-import { Box, BoxProps, Text } from '@next-ui/react'
+import { Box, BoxProps, Text } from '@next-ui-desing/react'
 
 export default {
   title: 'Surfaces/Box',

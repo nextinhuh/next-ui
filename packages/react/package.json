@@ -1,6 +1,6 @@
 {
-  "name": "@next-ui/react",
-  "version": "1.0.0",
+  "name": "@next-ui-desing/react",
+  "version": "2.0.2",
   "description": "",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -13,10 +13,14 @@
   "keywords": [],
   "author": "",
   "license": "MIT",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
   "devDependencies": {
-    "@next-ui/eslint-config": "*",
-    "@next-ui/tokens": "*",
-    "@next-ui/ts-config": "*",
+    "@next-ui-desing/eslint-config": "*",
+    "@next-ui-desing/tokens": "*",
+    "@next-ui-desing/ts-config": "*",
     "@types/react": "^18.2.45",
     "@types/react-dom": "^18.2.18",
     "react": "^18.2.0",

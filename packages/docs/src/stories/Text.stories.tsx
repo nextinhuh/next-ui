@@ -1,5 +1,5 @@
 import { StoryObj, Meta } from '@storybook/react'
-import { Text, TextProps } from '@next-ui/react'
+import { Text, TextProps } from '@next-ui-desing/react'
 
 export default {
   title: 'Typography/Text',

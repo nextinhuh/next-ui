@@ -1,5 +1,5 @@
 import { StoryObj, Meta } from '@storybook/react'
-import { Box, Text, TextInput, TextInputProps } from '@next-ui/react'
+import { Box, Text, TextInput, TextInputProps } from '@next-ui-desing/react'
 
 export default {
   title: 'Form/Text Input',

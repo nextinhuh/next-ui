@@ -1,4 +1,4 @@
-import { colors } from '@next-ui/tokens'
+import { colors } from '@next-ui-desing/tokens'
 import { getContrast } from 'polished'
 
 export function ColorsGrid() {

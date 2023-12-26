@@ -1,6 +1,7 @@
 {
-  "name": "@next-ui/eslint-config",
+  "name": "@next-ui-desing/eslint-config",
   "license": "MIT",
+  "version": "1.0.1",
   "private": true,
   "main": "index.js",
   "devDependencies": {

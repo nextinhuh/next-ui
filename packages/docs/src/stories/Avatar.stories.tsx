@@ -1,5 +1,5 @@
 import { StoryObj, Meta } from '@storybook/react'
-import { Avatar, AvatarProps } from '@next-ui/react'
+import { Avatar, AvatarProps } from '@next-ui-desing/react'
 
 export default {
   title: 'Data display/Avatar',

@@ -1,7 +1,6 @@
 {
-  "name": "@next-ui/docs",
-  "private": true,
-  "version": "0.0.0",
+  "name": "@next-ui-desing/docs",
+  "version": "1.0.1",
   "type": "module",
   "license": "MIT",
   "scripts": {
@@ -18,11 +17,15 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
   "devDependencies": {
-    "@next-ui/eslint-config": "*",
-    "@next-ui/react": "*",
-    "@next-ui/tokens": "*",
-    "@next-ui/ts-config": "*",
+    "@next-ui-desing/eslint-config": "*",
+    "@next-ui-desing/react": "*",
+    "@next-ui-desing/tokens": "*",
+    "@next-ui-desing/ts-config": "*",
     "@storybook/addon-essentials": "^7.6.6",
     "@storybook/addon-interactions": "^7.6.6",
     "@storybook/addon-links": "^7.6.6",
